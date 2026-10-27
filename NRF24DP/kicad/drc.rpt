@@ -1,0 +1,31 @@
+** Drc report for NRF24DP.kicad_pcb **
+** Created on 2026-10-27T13:55:03+0300 **
+
+** Found 6 DRC violations **
+[silk_edge_clearance]: Serigrafi pano kenarından kırpılmış
+    Rule: board setup constraints silk; warning
+    @(100.0000 mm, 100.0000 mm): Dikdörtgen on Edge.Cuts
+    @(99.9400 mm, 119.5900 mm): Parça on F.Silkscreen
+[silk_edge_clearance]: Serigrafi pano kenarından kırpılmış
+    Rule: board setup constraints silk; warning
+    @(100.0000 mm, 100.0000 mm): Dikdörtgen on Edge.Cuts
+    @(100.0400 mm, 124.6300 mm): Çokgen on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(114.4000 mm, 116.0000 mm): Parça on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(104.3600 mm, 125.3800 mm): Parça on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(103.5400 mm, 112.4100 mm): Çokgen on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(117.9400 mm, 116.2578 mm): Parça on F.Silkscreen
+    @(114.4000 mm, 116.0000 mm): Parça on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
