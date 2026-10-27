@@ -1,0 +1,12 @@
+# KiCad yerel / geçici dosyalar
+*-backups/
+fp-info-cache
+*.kicad_prl
+*.lck
+~*.lck
+_autosave-*
+*.net
+
+# Python
+__pycache__/
+*.pyc

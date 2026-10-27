@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "elf_rf")(type "KiCad")(uri "${KIPRJMOD}/elf_rf.pretty")(options "")(descr "Elfatek RF footprintleri"))
+)
